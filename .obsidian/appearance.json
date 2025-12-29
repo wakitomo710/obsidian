@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "M PLUS 1,Inter",
+  "textFontFamily": "M PLUS 1",
+  "monospaceFontFamily": "M PLUS 1 Code",
+  "showViewHeader": false,
+  "cssTheme": "Minimal",
+  "accentColor": "#0050d1",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
+}
